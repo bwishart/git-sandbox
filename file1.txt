@@ -1,3 +1,4 @@
 This is line 1 of file1.txt
 Added something to file1.txt
 Add another something to file1.txt
+Check out the -a on commit
